@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\bin\Debug\ACM.BLi.dll
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\bin\Debug\ACM.BLi.pdb
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\obj\Debug\ACM.BLi.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\obj\Debug\ACM.BLi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\obj\Debug\ACM.BLi.dll
+C:\Users\Dell\source\repos\ACMo\ACM.BLi\obj\Debug\ACM.BLi.pdb
